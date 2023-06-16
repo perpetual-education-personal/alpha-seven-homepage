@@ -1,5 +1,5 @@
-# alpha-seven-homepage
+# alpha-seven homepage
 
-The home page for alpha seven.
+The homepage for alpha 7.
 
-### Burn it all down
+### Burn it all down.
